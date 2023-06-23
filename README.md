@@ -9,9 +9,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Bootstrap, Materialize, PHP, JavaScript**
+## I’m currently learning 🌱 
+<p align="left" <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> 
+</a>
 
-<h3 align="left">Connect with me:</h3>
+
+## Connect with me :
 <p align="left">
 <a href="https://codepen.io/ahmad-syaifuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ahmad-syaifuddin" height="30" width="40" /></a>
 <a href="https://instagram.com/real.ahmadsyaifuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@real.ahmadsyaifuddin" height="30" width="40" /></a>
