@@ -1,40 +1,25 @@
- <link rel="stylesheet" href="css/style.css" />
+<h1 align="center">Hi 👋, I'm Ahmad Syaifuddin</h1>
+<h3 align="center">I'm going to become a Cyber Security Specialist 💻</h3>
 
-<img src=assets/markus-spiske-iar-afB0QQw-unsplash.jpg>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsyaifuddin-99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsyaifuddin-99" /> </p>
 
-## My Skills 🚀
-[![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![Python icon](./assets/icons/Python.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadsyaifuddin-99" alt="ahmadsyaifuddin-99" /></a> </p>
 
-<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="80" height="70" align="top"> 
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## Learning 📖
-<a href="https://php.net">
-        <img
-            alt="PHP"
-            src="https://www.php.net/images/logos/new-php-logo.svg"
-            width="120">
-    </a>
-  
-## Interested in
-I'm going to become a Cyber Security Specialist 💻
+- 🌱 I’m currently learning **Bootstrap, Materialize**
 
-## Get in touch 👀
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/@ahmad-syaifuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ahmad-syaifuddin" height="30" width="40" /></a>
+<a href="https://instagram.com/@real.ahmadsyaifuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@real.ahmadsyaifuddin" height="30" width="40" /></a>
+</p>
 
-[![Whatsapp icon](./assets/icons/Whatsapp.svg)](https://wa.me/6285849910396)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!--
-**ahmadsyaifuddin-99/ahmadsyaifuddin-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadsyaifuddin-99&show_icons=true&locale=en&layout=compact" alt="ahmadsyaifuddin-99" /></p>
 
-Here are some ideas to get you started:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&locale=en" alt="ahmadsyaifuddin-99" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsyaifuddin-99&" alt="ahmadsyaifuddin-99" /></p>
