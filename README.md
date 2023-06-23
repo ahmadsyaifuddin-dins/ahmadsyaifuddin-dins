@@ -1,3 +1,5 @@
+ <link rel="stylesheet" href="css/style.css" />
+
 # Hi there 👋
 
 [![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![GraphQL icon](./assets/icons/GraphQL.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
