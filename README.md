@@ -1,6 +1,6 @@
  <link rel="stylesheet" href="css/style.css" />
 
-# Hi there 👋
+<img src=assets/markus-spiske-iar-afB0QQw-unsplash.jpg>
 
 ## My Skills 🚀
 [![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![Python icon](./assets/icons/Python.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
