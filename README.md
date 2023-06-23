@@ -2,7 +2,8 @@
 
 # Hi there 👋
 
-[![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![GraphQL icon](./assets/icons/GraphQL.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
+## My Skills
+[![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
 
 
 
