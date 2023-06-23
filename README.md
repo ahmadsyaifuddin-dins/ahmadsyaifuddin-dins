@@ -3,7 +3,9 @@
 # Hi there 👋
 
 ## My Skills
-[![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="70" height="60" align="top"> [![Python icon](./assets/icons/Python.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
+[![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![Python icon](./assets/icons/Python.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
+
+<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="80" height="70" align="top"> 
 
 ## Learning
 <a href="https://php.net">
