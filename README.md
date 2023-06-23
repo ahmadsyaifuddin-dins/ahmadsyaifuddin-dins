@@ -12,6 +12,11 @@
             src="https://www.php.net/images/logos/new-php-logo.svg"
             width="120">
     </a>
+
+## Get in touch
+
+[![Whatsapp icon](./assets/icons/Whatsapp.svg)](https://wa.me/6285849910396)
+
 <!--
 **ahmadsyaifuddin-99/ahmadsyaifuddin-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
