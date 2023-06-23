@@ -6,7 +6,12 @@
 [![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![Python icon](./assets/icons/Python.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
 
 ## Learning
-
+<a href="https://php.net">
+        <img
+            alt="PHP"
+            src="https://www.php.net/images/logos/new-php-logo.svg"
+            width="120">
+    </a>
 <!--
 **ahmadsyaifuddin-99/ahmadsyaifuddin-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
