@@ -1,7 +1,7 @@
 [![Masterhead](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2023/06/cliphoverslices_featured.gif?x82061)]
 <h1 align="center">Hi 👋, I'm Ahmad Syaifuddin</h1>
 <h3 align="center">I'm going to become a Cyber Security Specialist 💻</h3>
-<img align="right" alt="coding" width=150 src="https://i.gifer.com/origin/5f/5fdd67c4d50ed3d8337229170131f0ea_w200.gif">
+<img align="right" alt="coding" width=180 src="https://i.gifer.com/origin/5f/5fdd67c4d50ed3d8337229170131f0ea_w200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsyaifuddin-99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsyaifuddin-99" /> </p>
 
