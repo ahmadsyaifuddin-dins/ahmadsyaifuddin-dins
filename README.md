@@ -2,12 +2,12 @@
 
 # Hi there 👋
 
-## My Skills
+## My Skills 🚀
 [![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![Python icon](./assets/icons/Python.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
 
 <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="80" height="70" align="top"> 
 
-## Learning
+## Learning 📖
 <a href="https://php.net">
         <img
             alt="PHP"
@@ -15,7 +15,7 @@
             width="120">
     </a>
 
-## Get in touch
+## Get in touch 👀
 
 [![Whatsapp icon](./assets/icons/Whatsapp.svg)](https://wa.me/6285849910396)
 
