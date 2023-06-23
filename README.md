@@ -3,9 +3,9 @@
 # Hi there 👋
 
 ## My Skills
-[![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
+[![HTML icon](./assets/icons/HTML.svg)](#) [![CSS icon](./assets/icons/CSS.svg)](#) [![JavaScript icon](./assets/icons/JavaScript.svg)](#) [![Python icon](./assets/icons/Python.svg)](#) [![MySQL icon](./assets/icons/MySQL.svg)](#)
 
-
+## Learning
 
 <!--
 **ahmadsyaifuddin-99/ahmadsyaifuddin-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
