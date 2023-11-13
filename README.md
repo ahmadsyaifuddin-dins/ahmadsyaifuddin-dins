@@ -6,6 +6,7 @@
 
 <img align="center" width=400 src="https://github.com/ahmadsyaifuddin-99/ahmadsyaifuddin-99/assets/77381720/c3b401ee-69b6-4b33-9ea8-24c9deef929e">
 
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadsyaifuddin-99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsyaifuddin-99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadsyaifuddin-99" alt="ahmadsyaifuddin-99" /></a> </p>
