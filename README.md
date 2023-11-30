@@ -15,12 +15,12 @@
 ## I’m currently learning 🌱
 
 <p align="left"> </a> 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg"> </a> </p>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg" width="40"> </a> </p>
 
 ## Connect with me 📲
 
 <p align="left">
-<a href="https://codepen.io/ahmad-syaifuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ahmad-syaifuddin" height="30" width="40" /></a>
+<a href="https://codepen.io/ahmad-syaifuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ahmad-syaifuddin" height="40" width="40" /></a>
 <a href="https://instagram.com/real.ahmadsyaifuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@real.ahmadsyaifuddin" height="30" width="40" /></a>
 </p>
 
