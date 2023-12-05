@@ -4,7 +4,9 @@
 
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=7849FF&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmad+Syaifuddin;I'm+Web+Development)](https://git.io/typing-svg)<img align="middle" alt="coding" width=200 src="https://i.gifer.com/origin/5f/5fdd67c4d50ed3d8337229170131f0ea_w200.gif"/> -->
 
-<img align="center" width=400 src="https://github.com/ahmadsyaifuddin-99/ahmadsyaifuddin-99/assets/77381720/c3b401ee-69b6-4b33-9ea8-24c9deef929e">
+<div>
+<img align="middle" width=400 src="https://github.com/ahmadsyaifuddin-99/ahmadsyaifuddin-99/assets/77381720/c3b401ee-69b6-4b33-9ea8-24c9deef929e">
+</div>
 
 <p align="left" ><img src="https://komarev.com/ghpvc/?username=ahmadsyaifuddin-99&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsyaifuddin-99" /> </p>
 
