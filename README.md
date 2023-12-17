@@ -58,7 +58,7 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="display:flex; justify-content: center;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&langs_count=10)
 
