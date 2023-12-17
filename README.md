@@ -58,12 +58,13 @@
 
 <br>
 
-<div align="center" style="display:flex; justify-content: center;">
+<div style="display:flex; justify-content: center;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&langs_count=10)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=compact"/>
 </div>
+
 <br>
 <div align="center">
 <p> <b>Visitors Count</b> </p>
