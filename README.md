@@ -62,8 +62,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=compact"/>
 </div>
 
-⁡⁣⁣
-
 <div align="center">
 <p> <b>Visitors Count</b> </p>
 <p><img align="center" src="https://profile-counter.glitch.me/{ahmadsyaifuddin-99}/count.svg" /></p>
