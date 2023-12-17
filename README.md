@@ -53,14 +53,15 @@
 <!-- Bar Graph Commits -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark"/>
 
-⁣<!-- Top Languages Used -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=compact"/>
-
-<!-- style="border: 1px solid white; border-radius: 5px;" -->
-
 ⁢<!-- ![Ahmad Syaifuddin's GitHub stats]() -->
 ⁡
 <img src="https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&theme=chartreuse-dark"/>
+
+⁣<!-- Top Languages Used -->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=compact"/> -->
+
+<!-- style="border: 1px solid white; border-radius: 5px;" -->
 
 </div>
 
