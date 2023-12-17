@@ -55,6 +55,7 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
+
 <!-- Bar Graph Commits -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark"/>
 
