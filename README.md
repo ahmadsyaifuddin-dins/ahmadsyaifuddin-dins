@@ -42,6 +42,8 @@
 
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&locale=en" /></p>
 
+![Ahmad Syaifuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&theme=radical)
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadsyaifuddin-99&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadsyaifuddin-99&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
