@@ -53,7 +53,9 @@
 <!-- <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&locale=en" /></p> -->
 
 <!-- Bar Graph Commits -->
+<div>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+</div>
 
 <!-- Graph Contributions -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
