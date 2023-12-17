@@ -51,7 +51,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">  
 </div>
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ahmadsyaifuddin-99?cardType=level&theme=merko&preferLogin=false&Title=2CD927&Border=2CD927&Ring=2CD927)](https://git.io/awesome-stats-card)
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=merko&preferLogin=false&Title=2CD927&Border=2CD927&Ring=2CD927"> <img  alt="ahmadsyaifuddin-99's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/ahmadsyaifuddin-99?cardType=level&theme=merko&preferLogin=false&Title=2CD927&Border=2CD927&Ring=2CD927" />  </a>
 
 <div align="center">
 <br><p> <b>Visitors Count</b> </p>  
