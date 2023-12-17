@@ -42,13 +42,19 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </a> </p>
 
-⁡⁢⁣⁢<!-- Top Languages Used -->
-⁡<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut" alt="ahmadsyaifuddin-99" /> -->
+⁡⁢⁣<!-- Top Languages Used -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut)](https://github.com/ahmadsyaifuddin-99/github-readme-stats)
+<div>
+⁡<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut" alt="ahmadsyaifuddin-99" />
 
 <!-- Bar Graph Commits -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+
+</div>
+
+⁡⁢⁣⁢<!-- Top Languages Used -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut)](https://github.com/ahmadsyaifuddin-99/github-readme-stats) -->
 
 <!-- Graph Contributions -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
