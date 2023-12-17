@@ -60,7 +60,10 @@
 </div>
 
 <br>
+
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=compact"/>
+</div>
 
 </div>
 ⁡⁣⁣
