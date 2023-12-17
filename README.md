@@ -52,7 +52,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">  
 </div>
 
-<div align="center" style="font-size: 2rem;">
+<div align="center">
 <br><p> <b>Visitors Count</b> </p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ahmadsyaifuddin-99}/count.svg" /></p>
 
