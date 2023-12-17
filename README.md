@@ -11,7 +11,7 @@
 
 ![Masterhead](https://github.com/ahmadsyaifuddin-99/ahmadsyaifuddin-99/assets/77381720/0e1e1682-7264-426b-bf21-04d27881aa66)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadsyaifuddin-99" alt="ahmadsyaifuddin-99" /></a> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ahmadsyaifuddin-99&theme=matrix" alt="ahmadsyaifuddin-99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
