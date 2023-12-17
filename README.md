@@ -58,7 +58,7 @@
 
 <br>
 
-<div style="display:flex; justify-content: center;">
+<div align="center" style="display:flex; justify-content: center;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=compact"/>
 </div>
 
