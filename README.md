@@ -56,7 +56,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut)](https://github.com/ahmadsyaifuddin-99/github-readme-stats) -->
 
-<!-- Graph Contributions -->
+<!-- Graph Gelombang Contributions -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
 
