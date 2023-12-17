@@ -47,32 +47,32 @@
 
 <div>
 <!-- Top Languages Used -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut" alt="ahmadsyaifuddin-99" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut" alt="ahmadsyaifuddin-99" /></p> -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut)](https://github.com/ahmadsyaifuddin-99/github-readme-stats) -->
 
 <!-- <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&locale=en" /></p> -->
 
 <!-- Bar Graph Commits -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-</div>
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+</div> -->
 
 <!-- Graph Contributions -->
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+<!-- <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-</div>
+</div> -->
 <!-- Stats Profile Github -->
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> -->
 
 <!-- Github Stats Profile Values -->
 
-![Ahmad Syaifuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&theme=chartreuse-dark)
+<!-- ![Ahmad Syaifuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&theme=chartreuse-dark)
 
 <div align="center">
-<br><p> <b>Visitors Count</b> </p>  
+<br><p> <b>Visitors Count</b> </p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ahmadsyaifuddin-99}/count.svg" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&langs_count=10)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsyaifuddin-99&" alt="ahmadsyaifuddin-99" /></p>
-</div>
+</div> -->
