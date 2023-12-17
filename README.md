@@ -56,6 +56,10 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" >
 <!-- style="border: 1px solid white; border-radius: 5px;" -->
 
+⁢<!-- ![Ahmad Syaifuddin's GitHub stats]() -->
+⁡
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&theme=chartreuse-dark">
+
 </div>
 
 ⁡⁢⁣⁢<!-- Top Languages Used -->
@@ -67,9 +71,7 @@
 
 <!-- Github Stats Profile Values -->
 
-⁡⁣⁣⁢<!-- ![Ahmad Syaifuddin's GitHub stats]() -->
-⁡
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&theme=chartreuse-dark">
+⁡⁣⁣
 
 <div align="center">
 <br><p> <b>Visitors Count</b> </p>
