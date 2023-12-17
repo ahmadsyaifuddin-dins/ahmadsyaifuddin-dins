@@ -44,14 +44,13 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
 ⁡⁢
-⁢<!-- ![Ahmad Syaifuddin's GitHub stats]() -->
-⁡
+<!-- Ahmad Syaifuddin's GitHub stats-->
 <img src="https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&theme=chartreuse-dark"/>
-</div>
 
 <!-- Bar Graph Commits -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark"/>
 <!-- style="border: 1px solid white; border-radius: 5px;" -->
+</div>
 
 <!-- Graph Gelombang Contributions -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
