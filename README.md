@@ -63,16 +63,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=compact"/>
 
 </div>
-
-⁡⁢⁣⁢<!-- Top Languages Used -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut)](https://github.com/ahmadsyaifuddin-99/github-readme-stats) -->
-
-⁡⁢⁣⁢<!-- Stats Profile Github -->
-⁡ <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> -->
-
-<!-- Github Stats Profile Values -->
-
 ⁡⁣⁣
 
 <div align="center">
