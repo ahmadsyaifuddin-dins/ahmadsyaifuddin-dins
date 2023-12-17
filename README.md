@@ -49,11 +49,12 @@
 </div>
 
 <div>
-⁡⁢⁣<!-- Top Languages Used -->
-⁡<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut" alt="ahmadsyaifuddin-99" />
 
 <!-- Bar Graph Commits -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+
+⁡⁢⁣<!-- Top Languages Used -->
+⁡<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut" alt="ahmadsyaifuddin-99" />
 
 </div>
 
