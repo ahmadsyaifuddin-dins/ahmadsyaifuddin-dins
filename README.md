@@ -43,7 +43,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </a> </p>
 
 <!-- Top Languages Used -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut" alt="ahmadsyaifuddin-99" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut" alt="ahmadsyaifuddin-99" /> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=donut)](https://github.com/ahmadsyaifuddin-99/github-readme-stats)
 
