@@ -1,4 +1,4 @@
-![Masterhead](https://i7x7p5b7.stackpathcdn.com/codrops/wp-content/uploads/2023/06/cliphoverslices_featured.gif?x82061)
+![Masterhead](<img src="./assets//cliphoverslices_featured.gif">)
 
 ## Hello There
 
