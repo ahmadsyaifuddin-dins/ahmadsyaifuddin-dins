@@ -48,7 +48,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
 </div>
 
-<div>
+<div style="display: flex; justify-content: center; align-items: center;">
 ⁡⁢
 <!-- Bar Graph Commits -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark"/>
