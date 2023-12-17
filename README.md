@@ -57,11 +57,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
 
 <!-- Stats Profile Github -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> -->
 
 <!-- Github Stats Profile Values -->
 
-<!-- ![Ahmad Syaifuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&theme=chartreuse-dark)
+![Ahmad Syaifuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&theme=chartreuse-dark)
 
 <div align="center">
 <br><p> <b>Visitors Count</b> </p>
