@@ -50,12 +50,12 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
 ⁡⁢
-<!-- Bar Graph Commits -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark"/>
-
 ⁢<!-- ![Ahmad Syaifuddin's GitHub stats]() -->
 ⁡
 <img src="https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&theme=chartreuse-dark"/>
+
+<!-- Bar Graph Commits -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark"/>
 
 ⁣<!-- Top Languages Used -->
 
