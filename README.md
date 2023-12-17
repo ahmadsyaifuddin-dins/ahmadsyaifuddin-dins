@@ -66,9 +66,9 @@
 
 <div align="center">
 <br><p> <b>Visitors Count</b> </p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ahmadsyaifuddin-99}/count.svg" /></p>
+<p><img align="center" src="https://profile-counter.glitch.me/{ahmadsyaifuddin-99}/count.svg" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&langs_count=10)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsyaifuddin-99&" alt="ahmadsyaifuddin-99" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsyaifuddin-99&" alt="ahmadsyaifuddin-99" /></p>
 </div>
