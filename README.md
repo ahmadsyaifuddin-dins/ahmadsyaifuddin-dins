@@ -40,7 +40,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadsyaifuddin-99&show_icons=true&locale=en&layout=compact" alt="ahmadsyaifuddin-99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&locale=en" alt="ahmadsyaifuddin-99" /></p>
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&locale=en" /></p>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadsyaifuddin-99&show_icons=true&theme=dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
