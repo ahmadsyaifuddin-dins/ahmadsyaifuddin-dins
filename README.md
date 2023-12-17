@@ -1,8 +1,8 @@
-![Masterhead](<"https://github.com/ahmadsyaifuddin-99/ahmadsyaifuddin-99/assets/77381720/6b18dc05-d8fa-4170-88ed-9f5c5ca82ae1">)
+![Masterhead]("https://github.com/ahmadsyaifuddin-99/ahmadsyaifuddin-99/assets/77381720/6b18dc05-d8fa-4170-88ed-9f5c5ca82ae1")
 
 ## Hello There
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=7849FF&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmad+Syaifuddin;I'm+Web+Development)](https://git.io/typing-svg)<img align="middle" alt="coding" width=200 src="https://i.gifer.com/origin/5f/5fdd67c4d50ed3d8337229170131f0ea_w200.gif"/> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=7849FF&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmad+Syaifuddin;I'm+Web+Development)](https://git.io/typing-svg)<img align="middle" alt="coding" width=200 src="https://i.gifer.com/origin/5f/5fdd67c4d50ed3d8337229170131f0ea_w200.gif"/>
 
 ![Masterhead](https://github.com/ahmadsyaifuddin-99/ahmadsyaifuddin-99/assets/77381720/0e1e1682-7264-426b-bf21-04d27881aa66)
 
