@@ -65,7 +65,7 @@
 ⁡⁣⁣
 
 <div align="center">
-<br><p> <b>Visitors Count</b> </p>
+<p> <b>Visitors Count</b> </p>
 <p><img align="center" src="https://profile-counter.glitch.me/{ahmadsyaifuddin-99}/count.svg" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&langs_count=10)
