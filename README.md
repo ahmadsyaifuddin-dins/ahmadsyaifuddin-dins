@@ -2,7 +2,7 @@
 
 ## Hello There
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=7849FF&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmad+Syaifuddin;I'm+Web+Development)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=7849FF&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmad+Syaifuddin;I'm+Web+Development)
 
 <!-- <img align="middle" alt="coding" width=200 src="https://i.gifer.com/origin/5f/5fdd67c4d50ed3d8337229170131f0ea_w200.gif"/> -->
 
