@@ -46,9 +46,14 @@
 
 ![Ahmad Syaifuddin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-99&show_icons=true&theme=chartreuse-dark)
 
+<!-- Graph Contributions -->
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">
+
+<!-- Stats Profile Github -->
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;"> -->
+
+<!-- Bar Graph Commits -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-99&show_icons=true&theme=github_dark" style="border: 1px solid white; border-radius: 5px; margin: 10px;">  
 </div>
 
@@ -59,3 +64,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&langs_count=10)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsyaifuddin-99&" alt="ahmadsyaifuddin-99" /></p>
+</div>
