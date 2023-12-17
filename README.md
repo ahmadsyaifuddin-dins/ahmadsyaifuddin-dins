@@ -68,6 +68,6 @@
 
 <div align="center" style="display:flex; justify-content: center;">
 <!-- Stats Of Streak & Top Languages Used -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadsyaifuddin-99&theme=github-light" alt="ahmadsyaifuddin-99" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=compact"/>
+<img src="https://streak-stats.demolab.com/?user=ahmadsyaifuddin-99&=github-light" alt="ahmadsyaifuddin-99" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-99&layout=compact"/>
 
 </div>
