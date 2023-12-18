@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![My Know Languages](https://skillicons.dev/icons?i=laravel,dart,flutter,vue)
+![My Know Languages](https://skillicons.dev/icons?i=laravel,vue,dart,flutter)
 
 </div>
 
