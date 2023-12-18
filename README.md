@@ -18,7 +18,10 @@
 
 ## I’m currently learning 🌱
 
-<p align="center"> </a> 
+<p align="center"> </a>
+
+![My Know Languages](https://skillicons.dev/icons?i=laravel,dart,flutter,vue)
+
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg" width="40"> </a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Dart-Dark.svg" width="40"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flutter-Dark.svg" width="40" ></p>
 
 ## Connect with me 📲
@@ -38,7 +41,7 @@
 <div align="center">
 <p>
 
-![My Know Languages](https://skillicons.dev/icons?i=html,css,js,py,php,c,cpp,mysql,bash,java&perline=5)
+![My Known Languages](https://skillicons.dev/icons?i=html,css,js,py,php,c,cpp,mysql,bash,java&perline=5)
 
 </p>
 
