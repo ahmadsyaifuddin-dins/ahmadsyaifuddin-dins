@@ -38,7 +38,7 @@
 <div align="center">
 <p>
 
-![My Know Languages](https://skillicons.dev/icons?i=html,css,js,py,php,c,cpp,mysql&perline=5)
+![My Know Languages](https://skillicons.dev/icons?i=html,css,js,py,php,c,cpp,mysql,bash&perline=5)
 
 </p>
 
