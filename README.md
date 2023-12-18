@@ -23,7 +23,7 @@
 
 ## Connect with me 📲
 
-<div align="left">
+<div align="center">
 <!-- Icon CodePen With Link -->
 <!-- Icon Instagram With Link -->
 
