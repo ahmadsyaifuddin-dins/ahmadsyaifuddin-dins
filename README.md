@@ -49,7 +49,6 @@
     <img width="45" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
     <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/dc393bd9-90b8-40d6-b396-dd9e547890c9" alt="Materialize" title="Materialize"/>
     <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e5fe87f3-f2ee-419d-8299-14dc573f3603" alt="Bulma" title="Bulma"/>
-    <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50c63e54-074f-494b-b786-01eb7870c927" alt="Vuetify.js" title="Vuetify.js"/>
     <img src="https://avatars.githubusercontent.com/u/35962841?s=200&v=4" width="45"> 
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JQuery.svg" width="45">
 
