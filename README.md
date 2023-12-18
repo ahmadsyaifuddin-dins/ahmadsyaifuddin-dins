@@ -29,6 +29,8 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/real.ahmadsyaifuddin/)
 
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fcodepen.io%2Fahmad-syaifuddin?logo=codepen&color=%23000)
+
 <a href="https://codepen.io/ahmad-syaifuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ahmad-syaifuddin" height="40" width="40" /></a> <a href="https://instagram.com/real.ahmadsyaifuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@real.ahmadsyaifuddin" height="40" width="40" /></a>
 
 </p>
