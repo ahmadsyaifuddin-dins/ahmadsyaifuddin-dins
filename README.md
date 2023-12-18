@@ -18,7 +18,7 @@
 
 ## I’m currently learning 🌱
 
-<p align="left"> </a> 
+<p align="center"> </a> 
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg" width="40"> </a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Dart-Dark.svg" width="40"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Flutter-Dark.svg" width="40" ></p>
 
 ## Connect with me 📲
