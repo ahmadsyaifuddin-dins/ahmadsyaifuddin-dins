@@ -44,11 +44,16 @@
 ![My Known Languages](https://skillicons.dev/icons?i=html,css,js,py,php,c,cpp,mysql,bash,java&perline=5)
 
 </p>
-
-<p> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <img src="https://avatars.githubusercontent.com/u/35962841?s=200&v=4" width="40"> 
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JQuery.svg" width="40"> </p>
+    <img width="45" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
+    <img width="45" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
+    <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/dc393bd9-90b8-40d6-b396-dd9e547890c9" alt="Materialize" title="Materialize"/>
+    <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/e5fe87f3-f2ee-419d-8299-14dc573f3603" alt="Bulma" title="Bulma"/>
+    <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50c63e54-074f-494b-b786-01eb7870c927" alt="Vuetify.js" title="Vuetify.js"/>
+    <img src="https://avatars.githubusercontent.com/u/35962841?s=200&v=4" width="45"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JQuery.svg" width="45">
 
 <!-- <p> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> </p>  -->
+
 <hr>
 </div>
 <div align="center">
