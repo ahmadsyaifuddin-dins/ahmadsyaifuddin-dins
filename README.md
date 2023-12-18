@@ -38,7 +38,7 @@
 <div align="center">
 <p>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,cpp)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,py,php,c,cpp)
 
 </p>
 
