@@ -32,7 +32,7 @@
 <!-- Icon Instagram With Link -->
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/real.ahmadsyaifuddin/)
-[![Codepen](https://img.shields.io/badge/Codepen-000?style=for-the-badge&logo=Codepen&logoColor=%23fff&color=%23000&link=https%3A%2F%2Fcodepen.io%2Fahmad-syaifuddin)](https://codepen.io/ahmad-syaifuddin)
+[![Codepen](https://img.shields.io/badge/Codepen-0F0F0F?style=for-the-badge&logo=Codepen&logoColor=%23fff&color=%23000&link=https%3A%2F%2Fcodepen.io%2Fahmad-syaifuddin)](https://codepen.io/ahmad-syaifuddin)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-syaifuddin-256907288)
 [![Tiktok](https://img.shields.io/badge/Tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ahmadsyai004?lang=id-ID)
 
