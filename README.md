@@ -20,7 +20,7 @@
 
 <div align="center">
 
-![My Know Languages](https://skillicons.dev/icons?i=laravel,vue,nodejs)
+![My Know Languages](https://skillicons.dev/icons?i=laravel,vue,nodejs,express,mongodb)
 <img width="45" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50c63e54-074f-494b-b786-01eb7870c927" alt="Vuetify.js" title="Vuetify.js"/>
 
 </div>
