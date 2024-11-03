@@ -1,4 +1,4 @@
-![Masterhead](https://github.com/ahmadsyaifuddin-dins/ahmadsyaifuddin-dins/assets/77381720/6b18dc05-d8fa-4170-88ed-9f5c5ca82ae1)
+![Masterhead](https://github.com/user-attachments/assets/d8c4e7e1-ab1b-437e-b6df-e5a6ffa74f3e)
 
 # Hello There 👋
 
@@ -9,7 +9,7 @@
 
 <!-- <img align="middle" alt="coding" width=200 src="https://i.gifer.com/origin/5f/5fdd67c4d50ed3d8337229170131f0ea_w200.gif"/> -->
 
-![Masterhead](https://github.com/ahmadsyaifuddin-dins/ahmadsyaifuddin-dins/assets/77381720/e85c2e35-8bbe-4700-a34e-8e2ae12552e7)
+![Masterhead](https://github.com/user-attachments/assets/df03d1ad-0536-4c77-9358-5dd55f2f3378)
 
 <!-- Profile Stats Tropies -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadsyaifuddin-dins&theme=matrix" alt="ahmadsyaifuddin-dins" /></a> </p>
