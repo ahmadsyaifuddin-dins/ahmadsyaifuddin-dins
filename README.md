@@ -86,6 +86,6 @@
   
 <!-- Stats Of Streak & Top Languages Used -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=ahmadsyaifuddin-dins&theme=hacker)](https://git.io/streak-stats)
-<img src="https://streak-stats.demolab.com/?user=ahmadsyaifuddin-dins&theme=github-light" alt="ahmadsyaifuddin-dins" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-dins&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-dins&layout=compact"/>
 
 </div>
