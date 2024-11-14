@@ -44,7 +44,7 @@
 
 ![My Known Languages](https://skillicons.dev/icons?i=html,css,js,py,php,c,cpp,mysql,bash,java&perline=5)
 
-![I known Tools](https://skillicons.dev/icons?i=nginx)
+![I known Tools](https://skillicons.dev/icons?i=nginx,qt)
 
   <img width="45" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/>
   <img width="45" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
