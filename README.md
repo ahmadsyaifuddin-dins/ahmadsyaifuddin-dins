@@ -37,7 +37,7 @@
 
 </div>
 
-## Languages, Frameworks and Tools 🪄
+## I Known Languages, Tools and Frameworks 🪄
 
 <div align="center">
 <p>
