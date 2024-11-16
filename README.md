@@ -30,7 +30,7 @@
 <!-- Icon CodePen With Link -->
 <!-- Icon Instagram With Link -->
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asai.ahmadsyaifuddin/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ai.ahmadsyaifuddin/)
 [![Codepen](https://img.shields.io/badge/Codepen-272829?style=for-the-badge&logo=Codepen&logoColor=%23fff&color=%23000&link=https%3A%2F%2Fcodepen.io%2Fahmad-syaifuddin)](https://codepen.io/ahmad-syaifuddin)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-syaifuddin-256907288)
 
