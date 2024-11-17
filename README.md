@@ -80,6 +80,7 @@
 
 <details>
  <summary>My Anime List</summary>
+<br>
 
 [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](#)
 <li>Dr. Stone</li>
@@ -88,6 +89,7 @@
 <li>Girls und Panzer</li>
 <li>One Punch Man</li>
 
+</details>
 <hr>
 
 
