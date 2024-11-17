@@ -78,13 +78,15 @@
 </div>
 <hr>
 
+<details>
+ <summary>My Anime List</summary>
 [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](#)
 <li>Dr. Stone</li>
 <li>Ansatsu Kyoutshitsu (Assassination Classroom)</li>
 <li>Hataraku Saibou (Cells At Work)</li>
 <li>Girls und Panzer</li>
 <li>One Punch Man</li>
-
+<details>
 <hr>
 
 
