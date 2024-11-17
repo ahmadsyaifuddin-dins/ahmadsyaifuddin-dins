@@ -79,10 +79,9 @@
 <hr>
 
 <details>
- <summary>My Anime List</summary>
+ <summary>[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](#)</summary>
 <br>
 
-[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](#)
 <li>Dr. Stone</li>
 <li>Ansatsu Kyoutshitsu (Assassination Classroom)</li>
 <li>Hataraku Saibou (Cells At Work)</li>
