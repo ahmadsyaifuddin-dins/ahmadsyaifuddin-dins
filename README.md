@@ -88,6 +88,7 @@
 <li>Hataraku Saibou (Cells At Work)</li>
 <li>Girls und Panzer</li>
 <li>One Punch Man</li>
+<li>Steins Gate</li>
 
 </details>
 <hr>
