@@ -1,4 +1,7 @@
+<!-- Profile View Old -->
+<p align="center" ><img align="center" src="https://komarev.com/ghpvc/?username=ahmadsyaifuddin-dins&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsyaifuddin-dins" /> </p>
 <!-- ![Masterhead](https://github.com/user-attachments/assets/d8c4e7e1-ab1b-437e-b6df-e5a6ffa74f3e) -->
+
 # Support me 
 
 [![My saweria](https://img.shields.io/badge/My_saweria-orange?style=plastic)](https://saweria.co/syaifuddins) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white)](https://paypal.me/09Ahmad)
@@ -8,8 +11,6 @@
 
 # Hello There 👋
 
-<!-- Profile View Old -->
-<p align="center" ><img align="center" src="https://komarev.com/ghpvc/?username=ahmadsyaifuddin-dins&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsyaifuddin-dins" /> </p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=500&color=7849FF&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmad+Syaifuddin;I'm+Web+Developer)
 
