@@ -90,6 +90,7 @@
 <li>Girls und Panzer</li>
 <li>One Punch Man</li>
 <li>Steins Gate</li>
+<li>Shūmatsu no Walküre (Record of Ragnarok)</li>
 
 </details>
 <hr>
