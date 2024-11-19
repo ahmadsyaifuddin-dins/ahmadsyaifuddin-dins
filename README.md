@@ -1,7 +1,7 @@
 <!-- ![Masterhead](https://github.com/user-attachments/assets/d8c4e7e1-ab1b-437e-b6df-e5a6ffa74f3e) -->
 # Support me 
 
-![](https://img.shields.io/badge/My_saweria-orange?style=plastic&link=https://saweria.co/syaifuddins) ![](https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white&link=https://paypal.me/09Ahmad)
+[![My saweria](https://img.shields.io/badge/My_saweria-orange?style=plastic)](https://saweria.co/syaifuddins) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=plastic&logo=paypal&logoColor=white)](https://paypal.me/09Ahmad)
 
 
 <hr>
