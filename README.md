@@ -1,5 +1,10 @@
 <!-- ![Masterhead](https://github.com/user-attachments/assets/d8c4e7e1-ab1b-437e-b6df-e5a6ffa74f3e) -->
+# Support me 
 
+![SAWERIA](https://img.shields.io/badge/My_saweria-orange?style=plastic&link=https%3A%2F%2Fsaweria.co%2Fsyaifuddins)
+
+
+<hr>
 # Hello There 👋
 
 <!-- Profile View Old -->
