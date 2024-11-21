@@ -16,7 +16,9 @@
 
 <!-- <img align="middle" alt="coding" width=200 src="https://i.gifer.com/origin/5f/5fdd67c4d50ed3d8337229170131f0ea_w200.gif"/> -->
 
-![Masterhead](https://github.com/user-attachments/assets/df03d1ad-0536-4c77-9358-5dd55f2f3378)
+<!-- ![Masterhead](https://github.com/user-attachments/assets/df03d1ad-0536-4c77-9358-5dd55f2f3378) -->
+
+![Masterhead](https://github.com/user-attachments/assets/06b66941-a19a-4da2-86f9-6c3f319260f2)
 
 <!-- Profile Stats Tropies -->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadsyaifuddin-dins&theme=matrix" alt="ahmadsyaifuddin-dins" /></a> </p>
