@@ -1,5 +1,5 @@
 <!-- Profile View Old -->
-<p align="center" ><img align="center" src="https://komarev.com/ghpvc/?username=ahmadsyaifuddin-dins&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadsyaifuddin-dins" /> </p>
+<p align="center" ><img align="center" src="https://komarev.com/ghpvc/?username=ahmadsyaifuddin-dins&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahmadsyaifuddin-dins" /> </p>
 <!-- ![Masterhead](https://github.com/user-attachments/assets/d8c4e7e1-ab1b-437e-b6df-e5a6ffa74f3e) -->
 
 # Support me 
