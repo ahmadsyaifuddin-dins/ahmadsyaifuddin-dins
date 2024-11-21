@@ -4,6 +4,7 @@
 
 # Support me 
 
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/ahmadsyaifuddin-dins)
 [![My saweria](https://img.shields.io/badge/My_saweria-orange?style=for-the-badge)](https://saweria.co/syaifuddins) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/09Ahmad) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/ahmadsyaifuddin)
 
 
