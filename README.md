@@ -134,7 +134,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadsyaifuddin-dins&show_icons=true&theme=github_dark"/>
 
 <!-- Ahmad Syaifuddin's GitHub stats-->
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddin-dins&show_icons=true&theme=chartreuse-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ahmadsyaifuddi-dins&show_icons=true&theme=chartreuse-dark"/>
 
 </div>
 
