@@ -149,7 +149,7 @@
 <div align="center" style="display:flex; justify-content: center;">
   
 <!-- Stats Of Streak & Top Languages Used -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmadsyaifuddin-dins&theme=hacker)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ahmadsyaifuddin-dins&theme=hacker)]
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-dins&layout=compact"/>
 
 </div>
