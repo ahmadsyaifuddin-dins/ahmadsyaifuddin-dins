@@ -117,6 +117,9 @@
 <li>One Punch Man</li>
 <li>Steins Gate</li>
 <li>Shūmatsu no Walküre (Record of Ragnarok)</li>
+<li>Berserk</li>
+<li>Elfen Lied</li>
+
 
 </details>
 <hr>
