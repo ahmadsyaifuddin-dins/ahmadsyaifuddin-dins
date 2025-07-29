@@ -155,4 +155,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=ahmadsyaifuddin-dins&theme=hacker)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadsyaifuddin-dins&layout=compact"/>
 
+
+![snake gif](https://github.com/ahmadsyaifuddin-dins/ahmadsyaifuddin-dins/blob/output/github-snake-dark.svg)
 </div>
