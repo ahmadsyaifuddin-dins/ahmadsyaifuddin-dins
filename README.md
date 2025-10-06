@@ -72,6 +72,8 @@
 <h2>Frameworks & Libraries</h2>
 
 <!-- ![I known Tools & Libraries](https://skillicons.dev/icons?i=git,npm,nginx,qt,cmake,codepen,gitlab,kali,vercel,wordpress) -->
+![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=for-the-badge&logo=Packagist&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Livewire](https://img.shields.io/badge/livewire-4e56a6?style=for-the-badge&logo=livewire&logoColor=white)
 ![AlpinJS](https://img.shields.io/badge/Alpine%20JS-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
 ![Cytoscape](https://img.shields.io/badge/cytoscape%20js-F7DF1E?style=for-the-badge&logo=cytoscape.js&logoColor=000)
